@@ -1,12 +1,12 @@
 gephigraphreport-
 =================
-> ### Eimear Bennett
-> ### 12422052
-> ### IS30320 – Trends in social computing
-> ### 16th October 2014
->
->
-> #Gephi Network Graph
+ ### Eimear Bennett
+ ### 12422052
+ ### IS30320 – Trends in social computing
+ ### 16th October 2014
+
+
+##Gephi Network Graph
 -------------
 
  <p> Gephi is an interactive tool which allows us to visualize and analyze network graphs in
