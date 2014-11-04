@@ -1,9 +1,9 @@
 gephigraphreport-
 =================
-> ## Eimear Bennett
+> ### Eimear Bennett
 > ### 12422052
-> #### IS30320 – Trends in social computing
-> ##### 16th October 2014
+> ### IS30320 – Trends in social computing
+> ### 16th October 2014
 >
 >
 > #Gephi Network Graph
@@ -48,18 +48,18 @@ gephigraphreport-
 > social group were. </p> 
 > 
 > 
-> <p> When you look at my graph you instantly see that the cluster of blue nodes and Edges
+> <p> When you look at my graph you instantly see that the cluster of blue nodes and <b> Edges
 > (Describes the connection between the 2 nodes. It can be Unimodal or multimodal.
 > Unimodal - for example twitter as it is user to user and you can only see the things
 > from people that you follow. Multimodal - for example Facebook as you can see
 > information that friends of friends post, like information that groups and pages
-> share etc.) which is my friends from athletics have the least amount of ties to the other
+> share etc.) </b> which is my friends from athletics have the least amount of ties to the other
 > clusters, which makes sense as most of my friends from athletics don’t know any of my
 > friends from work, college or many of my family members. But on the other hand when
 > you look at the red, green and purple nodes you can see a lot of bonding, bridging,
-> betweeness centrality (i.e. a friend of a friend you’re connected to but don’t have an
-> immediate connection to) ties amongst one another as the majority of my friends and
+> <b> betweeness centrality (i.e. a friend of a friend you’re connected to but don’t have an
+> immediate connection to) </b> ties amongst one another as the majority of my friends and
 > family know one another or have a friend who knows them. Finally when you look at
-> the graph you can pick out the eigenvector centrality (i.e. the member with the most
-> bonding ties within my graph), which is completely accurate as it is my best friend
+> the graph you can pick out the <b> eigenvector centrality (i.e. the member with the most
+> bonding ties within my graph)</b>, which is completely accurate as it is my best friend
 > Ellen who knows the most part of my family and friends. </p> 
