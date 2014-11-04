@@ -1,11 +1,6 @@
 gephigraphreport-
 =================
-> ### Eimear Bennett
-> ### 12422052
-> ### IS30320 – Trends in social computing
-> ### 16th October 2014
->
->
+> 
 > ##Gephi Network Graph
 -------------
 >
