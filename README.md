@@ -37,28 +37,28 @@ gephigraphreport-
 > size distribution of the nodes on my graph. I then went to the partition tab on the left
 > side and chose modularity class, which colour coded all of the nodes depending on their
 > ties. The colours showed that the red nodes were my friends from college, the green
-nodes were my friends from work, the blue nodes were friends from my athletic club
-and finally, the purple nodes were my family. I then went on to find out which nodes
-were the bonding nodes and which were the bridging nodes i.e. which clusters had the
-strongest and weakest ties, so, again in statistics I ran the average degree, then went to
-partition and ran that. This provided me with some interesting information about the
-connections within my social group. The larger clusters had more bonding ties and
-nearly all groups contained some bridging ties with showed how well connected my
-social group were. </p> 
+> nodes were my friends from work, the blue nodes were friends from my athletic club
+> and finally, the purple nodes were my family. I then went on to find out which nodes
+> were the bonding nodes and which were the bridging nodes i.e. which clusters had the
+> strongest and weakest ties, so, again in statistics I ran the average degree, then went to
+> partition and ran that. This provided me with some interesting information about the
+> connections within my social group. The larger clusters had more bonding ties and
+> nearly all groups contained some bridging ties with showed how well connected my
+> social group were. </p> 
 > 
 > 
-<p> When you look at my graph you instantly see that the cluster of blue nodes and Edges
-(Describes the connection between the 2 nodes. It can be Unimodal or multimodal.
-Unimodal - for example twitter as it is user to user and you can only see the things
-from people that you follow. Multimodal - for example Facebook as you can see
-information that friends of friends post, like information that groups and pages
-share etc.) which is my friends from athletics have the least amount of ties to the other
-clusters, which makes sense as most of my friends from athletics don’t know any of my
-friends from work, college or many of my family members. But on the other hand when
-you look at the red, green and purple nodes you can see a lot of bonding, bridging,
-betweeness centrality (i.e. a friend of a friend you’re connected to but don’t have an
-immediate connection to) ties amongst one another as the majority of my friends and
-family know one another or have a friend who knows them. Finally when you look at
-the graph you can pick out the eigenvector centrality (i.e. the member with the most
-bonding ties within my graph), which is completely accurate as it is my best friend
-Ellen who knows the most part of my family and friends. </p> 
+> <p> When you look at my graph you instantly see that the cluster of blue nodes and Edges
+> (Describes the connection between the 2 nodes. It can be Unimodal or multimodal.
+> Unimodal - for example twitter as it is user to user and you can only see the things
+> from people that you follow. Multimodal - for example Facebook as you can see
+> information that friends of friends post, like information that groups and pages
+> share etc.) which is my friends from athletics have the least amount of ties to the other
+> clusters, which makes sense as most of my friends from athletics don’t know any of my
+> friends from work, college or many of my family members. But on the other hand when
+> you look at the red, green and purple nodes you can see a lot of bonding, bridging,
+> betweeness centrality (i.e. a friend of a friend you’re connected to but don’t have an
+> immediate connection to) ties amongst one another as the majority of my friends and
+> family know one another or have a friend who knows them. Finally when you look at
+> the graph you can pick out the eigenvector centrality (i.e. the member with the most
+> bonding ties within my graph), which is completely accurate as it is my best friend
+> Ellen who knows the most part of my family and friends. </p> 
