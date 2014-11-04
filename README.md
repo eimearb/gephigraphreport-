@@ -1,24 +1,25 @@
 gephigraphreport-
 =================
- ### Eimear Bennett
- ### 12422052
- ### IS30320 – Trends in social computing
- ### 16th October 2014
-
-
-##Gephi Network Graph
+> ### Eimear Bennett
+> ### 12422052
+> ### IS30320 – Trends in social computing
+> ### 16th October 2014
+>
+>
+> ##Gephi Network Graph
 -------------
-
- <p> Gephi is an interactive tool which allows us to visualize and analyze network graphs in
- an interesting, accurate and visually appealing way. This tool has provided me with an
- in dept understanding of the connections between <b> nodes (i.e. A Facebook friend - the
- connection has to be accepted by both parties)</b> among my friends on Facebook within
- my social groups and the type of connection that these nodes have i.e.<b>  bonding – a
- strong tie with many connections, bridging – a weak tie with connections in diverse
- groups and clusters – a tight subgroup of nodes where bonding is occurring.</b> It has
- also shown me how strong these connections are and which nodes have the most. In
- this report I wish to discuss the methods I used to create the graph, my findings and
- finally my understandings and observations. </p> 
+>
+>
+> <p> Gephi is an interactive tool which allows us to visualize and analyze network graphs in
+> an interesting, accurate and visually appealing way. This tool has provided me with an
+> in dept understanding of the connections between <b> nodes (i.e. A Facebook friend - the
+> connection has to be accepted by both parties)</b> among my friends on Facebook within
+> my social groups and the type of connection that these nodes have i.e.<b>  bonding – a
+> strong tie with many connections, bridging – a weak tie with connections in diverse
+> groups and clusters – a tight subgroup of nodes where bonding is occurring.</b> It has
+> also shown me how strong these connections are and which nodes have the most. In
+> this report I wish to discuss the methods I used to create the graph, my findings and
+> finally my understandings and observations. </p> 
 > 
 >
 > <p> We were introduced to Gephi in our lab in week 2, where we downloaded the tool and
